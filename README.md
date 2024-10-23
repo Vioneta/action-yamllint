@@ -232,3 +232,5 @@ SOFTWARE.
 [releases]: https://github.com/Vioneta/action-yamllint/releases
 [semver]: http://semver.org/spec/v2.0.0.html
 [yamllint]: https://github.com/adrienverge/yamllint
+
+###
